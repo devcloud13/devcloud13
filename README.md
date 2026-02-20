@@ -15,6 +15,6 @@ I'm a passionate **DevOps & Network Engineer** with experience in **Linux, Git, 
 
 ## Get in Touch 📬
 
-- **[Personal Website]**(https://kupriy-daniil.ru)
+- **[Personal Website]** (https://kupriy-daniil.ru)
 
 
