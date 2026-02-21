@@ -15,6 +15,7 @@
 - 🤝 Love collaborating with teams on complex problems
 - 🌍 **Russian** (Native) · **English** (Upper-Intermediate)
 - 📚 Always learning something new
+- 🌎 Personal Website: [kupriy-daniil.ru](https://kupriy-daniil.ru)
 
 ---
 
@@ -43,21 +44,7 @@
 
 <div align="center">
 
-![Daniil's GitHub stats](https://github-readme-stats.vercel.app/api?username=devcloud13&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devcloud13&layout=compact&theme=tokyonight&hide_border=true)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=devcloud13&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=devcloud13&theme=tokyonight&no-frame=true&row=1&column=7)
 
 </div>
 
@@ -70,7 +57,3 @@
 *"Infrastructure is not just servers — it's the backbone of everything."*
 
 </div>
-
-- **[Personal Website](https://kupriy-daniil.ru)**
-
-
