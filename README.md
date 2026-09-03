@@ -15,7 +15,6 @@
 - 🤝 Love collaborating with teams on complex problems
 - 🌍 **Russian** (Native) · **English** (Upper-Intermediate)
 - 📚 Always learning something new
-- 🌎 Personal Website: [kupriy-daniil.ru](https://kupriy-daniil.ru)
 
 ---
 
